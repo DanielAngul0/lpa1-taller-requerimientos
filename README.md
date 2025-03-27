@@ -5,9 +5,9 @@
 
 - ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
 
-## Autor
+## [@DanielAngul0]
 
-- [@estudiante](https://www.github.com/estudiante)
+- [@DanielAngul0](https://github.com/DanielAngul0/lpa1-taller-requerimientos)
 
 ## Descripción del Proyecto
 
